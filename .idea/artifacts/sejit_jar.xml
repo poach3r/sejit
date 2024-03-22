@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sejit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sejit_jar</output-path>
+    <root id="archive" name="sejit.jar">
+      <element id="module-output" name="sejit" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/moandjiezana/toml/toml4j/0.7.2/toml4j-0.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
